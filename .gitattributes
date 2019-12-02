@@ -1,0 +1,7 @@
+.* eol=lf
+*.json eol=lf
+*.md eol=lf
+*.sh eol=lf
+*.ts eol=lf
+*.txt eol=lf
+LICENSE eol=lf
