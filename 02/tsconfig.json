@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "allowUnreachableCode": false,
+        "alwaysStrict": true,
+        "declaration": true,
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noStrictGenericChecks": false,
+        "outDir": "lib/",
+        "sourceMap": false,
+        "strict": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "target": "esnext"
+    },
+    "exclude": [
+        "node_modules",
+        "src",
+        "tests"
+    ],
+    "files": [
+        "index.ts"
+    ]
+}
